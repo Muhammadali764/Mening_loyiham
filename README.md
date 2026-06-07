@@ -2,8 +2,7 @@
 
 <hr><br>
 
-1) 5 sahifalik muzqaymoq sayti. <br>
-2) home, about, contact, locations pagelar bor. <br>
-3) Login va Signup page bor. <br><br>
-
+<p>Ushbu loyiha Junior IT kursidagi vazifalarni bajarish uchun yaratilgan.</p>
+<p>mening saytim</p>
+<p>Bu mening Git va GitHub bo'yicha amaliy loyiham.</p>
 <hr><br>
